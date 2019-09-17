@@ -11,7 +11,7 @@ This is a prestep to create an instance of Netsuite Restlets in Cloud Elements
 
 
 
-Pre Dev Steps
+*Pre Dev Steps*
 1. Pick the latest script from the releases
 2. Deploy the script on Netsuite environment
 3. Get scriptId and DeploymentId from the deployment
