@@ -5,9 +5,17 @@ Releases repo for netsuite restlets suite script.
 This is a prestep to create an instance of Netsuite Restlets in Cloud Elements
 
 Snapshot : [Snapshot]: https://my-snapshot.cloudelements.io
+
+
 Staging:  [Staging]: https://my-staging.cloudelements.io
+
+
 Production - US: [Production - US]: https://my.cloudelements.io
+
+
 Production - UK: [Production - UK]: https://my.cloudelements.co.uk
+
+
 
 
 
