@@ -1,4 +1,4 @@
-# netsuiterestlets-releases
+# Netsuite Restlets - releases
 Releases repo for netsuite restlets suite script.
 This is a prestep to create an instance of Netsuite Restlets in Cloud Elements
 
